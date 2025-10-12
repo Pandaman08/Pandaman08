@@ -9,7 +9,7 @@
 <h3 align="left">🛠️ Proyectos Colaborativos</h3>
 <ul>
   <li>
-    🎵 <a href="https://github.com/NombreCompañero/NombreRepo" target="_blank" rel="noreferrer">
+    🎵 <a href="https://github.com/marck-h-cmd/Music-Player-System" target="_blank" rel="noreferrer">
       MusicPlayer Java
     </a><br />
     <span>
